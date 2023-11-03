@@ -13,9 +13,3 @@ make different Methods like displayEmployees(), getName(), getSalary() of partic
 
 Thats it.
 HAPPY LEARNING
-
-H       H     A     P P P   P P P   Y     Y
-H       H    A A    P    P  P    P   Y   Y
-H H H H H   A A A   P P P   P P P     Y Y
-H       H  A     A  P       P          Y
-H       H A       A P       P          Y
